@@ -39,4 +39,4 @@ for (let key in channels) {
 }
 
 // Start server
-app.listen(3000, () => console.log("API running on http://localhost:3000"));
+app.listen(3000, () => console.log("API running on https://news-project-steel.vercel.app"));
